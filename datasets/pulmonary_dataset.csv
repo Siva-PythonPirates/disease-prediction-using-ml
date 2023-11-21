@@ -1,0 +1,7 @@
+Name,Age,Gender,Height,Weight,LungCapacity,BreathingRate,PulmonaryType
+John Doe,45,male,175,75,4.5,18,ChronicBronchitis
+Jane Smith,40,female,160,60,5.2,22,Asthma
+Bob Johnson,55,male,180,85,4.0,15,Emphysema
+Alice Brown,50,female,165,70,5.8,20,Pneumonia
+Charlie Davis,60,male,170,80,4.2,17,LungCancer
+Eva White,35,female,155,55,5.5,19,Asthma

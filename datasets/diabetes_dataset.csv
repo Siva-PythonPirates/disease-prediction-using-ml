@@ -1,0 +1,7 @@
+Name,Age,Gender,Height,Weight,BloodSugarLevel,InsulinLevel,BMI,DiabetesType
+John Doe,40,male,175,70,120,15,25,type1
+Jane Smith,35,female,160,55,90,10,22,type2
+Bob Johnson,50,male,180,80,140,20,28,type1
+Alice Brown,45,female,165,65,110,12,24,type2
+Charlie Davis,55,male,170,75,130,18,26,type1
+Eva White,30,female,155,50,85,8,20,type2

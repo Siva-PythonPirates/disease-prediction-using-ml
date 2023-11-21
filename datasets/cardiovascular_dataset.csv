@@ -1,0 +1,7 @@
+Name,Age,Gender,Height,Weight,BloodPressure,CholesterolLevel,HeartRate,CardiovascularType
+John Doe,45,male,175,75,120/80,200,70,HeartAttack
+Jane Smith,40,female,160,60,130/90,220,75,Stroke
+Bob Johnson,55,male,180,85,140/85,240,80,AtrialFibrillation
+Alice Brown,50,female,165,70,130/80,210,72,HeartFailure
+Charlie Davis,60,male,170,80,150/95,230,78,CoronaryArteryDisease
+Eva White,35,female,155,55,120/75,190,68,Stroke
